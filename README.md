@@ -2,52 +2,53 @@
 
 > ✅ Task 3 Submission for Future Interns – Data Science & Analytics Internship  
 > 👨‍💻 Intern: Bhargab Jyoti Bhuyan  
-> 📅 Date: May 2025
+> 📅 May 2025
 
 ---
 
 ## 📌 Objective
 
-Design an interactive dashboard to analyze road accident data with the goal of identifying:
-- High-risk accident locations
-- Common vehicle types and causes
-- Severity trends and time-based spikes
-- Areas for safety improvements
+Design an interactive Power BI dashboard to analyze real-world road accident data and uncover:
+- High-risk accident zones
+- Monthly and yearly casualty trends
+- Impact of weather, lighting, vehicle types, and road conditions
+- Actionable insights for improving road safety
 
 ---
 
-## 📊 Visual Insights
+## 📊 Dashboard Features
 
-- 📌 **KPIs:** Total casualties, fatalities, serious & slight injuries
-- 📈 **Trends:** Monthly comparison (CY vs PY)
-- 🚦 **Factors:** Road types, weather, lighting, vehicle type
-- 🌍 **Map View:** Accident density by location
-- 📊 **Categorical:** Urban vs Rural, Light vs Dark, etc.
+- 📈 **KPIs**: Total Casualties, Accidents, Fatalities (CY vs PY)
+- 📉 **Monthly Trend Line**: Casualties over the year
+- 🚦 **Breakdowns**: By Vehicle Type, Road Type, Urban/Rural, Light Conditions
+- 🗺️ **Map Visualization**: Accident hotspots by location
+- 🧩 **Slicers**: Filter by Weather Conditions, Road Surface, Year, Severity
 
 ---
 
 ## 🛠 Tools Used
 
-- Power BI (DAX, Power Query, Map visuals)
-- Excel (Data Cleanup)
-- Custom Icons + Backgrounds for design
+- Power BI (DAX, Power Query, Visuals)
+- Excel (Preprocessing)
+- Custom Background & Vehicle Icons (Design enhancement)
 
 ---
 
 ## 📁 Files Included
 
-- `Road Accident Data.xlsx` – Raw dataset
-- `Dashboard.pbix` – Power BI report file *(optional to upload)*
-- `README.md` – This documentation
-- Background + Vehicle Icons (for enhanced visual appeal)
+- `Road Accident Data.xlsx` – Cleaned dataset
+- `Dashboard.pbix` – Power BI Dashboard *(optional)*
+- Background + Icons folder
+- `README.md` – This file
 
 ---
 
-## 📎 Dataset
+## 📎 Dataset Source
 
-> Public Road Safety Dataset (originally from UK Department of Transport)  
-> Used with modifications and visualization enhancements.  
-> *Not provided directly due to licensing.*
+> 🗂️ Dataset Link (from Future Interns):  
+> [https://drive.google.com/drive/folders/1OYsHsfWDSI2zd2bxFXoZf-HMq3O1Ob3O](https://drive.google.com/drive/folders/1OYsHsfWDSI2zd2bxFXoZf-HMq3O1Ob3O)
+
+> Public accident records sourced from UK Department of Transport.
 
 ---
 
